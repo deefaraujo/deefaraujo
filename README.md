@@ -9,8 +9,8 @@
 - 🌱 I’m currently learning **To be Extroverted** 
 
 - 🤝 I'm a self-taught **Game Developer**
-
-- 👨‍💻 All of my projects are available [@deefaraujo](github.com/deefaraujo)
+<!-- 
+- 👨‍💻 All of my projects are available [@deefaraujo](github.com/deefaraujo) -->
 
 - 💬 Ask me about **Programming 💻  /  Games 🎮  /  ET 👽**
 
